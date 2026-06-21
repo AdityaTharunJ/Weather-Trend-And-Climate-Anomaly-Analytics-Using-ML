@@ -125,6 +125,6 @@ The project generates:
 
 **Aditya Tarun J**
 
-B.Tech Computer Science (AI & Data Science)
+B.Tech in Computer Science (AI & Data Science)
 
-Weather Trend And Climate Anomaly Analysis Using ML Project
+Weather Trend And Climate Anomaly Analysis Using ML Project (Predictive Analytics)
