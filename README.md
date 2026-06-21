@@ -123,7 +123,7 @@ The project generates:
 
 ## 👨‍💻 Author
 
-**Tharun J**
+**Aditya Tarun J**
 
 B.Tech Computer Science (AI & Data Science)
 
